@@ -4,7 +4,7 @@
 <P>Les taches sont stockees au localstorage du naviguateur</P>
 
 <h4>Lien Github Pages de l'application</h4>
-<a hreh=""></a>
+<a href=" https://daydy225.github.io/js_basic_todo_app/"></a>
 
 <img src="./Todo_js_basic-1.png" width="800px" height="450px">
 <img src="./Todo_js_basic-2.png" width="800px" height="450px">
